@@ -1,3 +1,3 @@
-# jmgdolot.github.io
+# Test GitHub Page
 
 TEST
