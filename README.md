@@ -1,3 +1,0 @@
-# Test GitHub Page
-
-TEST
